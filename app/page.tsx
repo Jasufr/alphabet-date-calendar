@@ -6,9 +6,9 @@ import { CalendarDaysIcon } from '@heroicons/react/24/solid';
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col p-3">
-      <div className="flex gap-2 items-center h-40 p-5 bg-green-100 text-2xl font-bold">
-      <CalendarDaysIcon className="w-7" />
+    <main className="flex h-full min-h-screen flex-col p-3">
+      <div className="flex gap-2 items-center h-40 p-5 bg-green-100 text-3xl font-bold">
+      <CalendarDaysIcon className="w-8" />
         <h1 className="">Alphadate</h1>
       </div>
       <div className="flex grow pt-3 gap-3">
