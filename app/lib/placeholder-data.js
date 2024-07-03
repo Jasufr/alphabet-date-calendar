@@ -12,7 +12,7 @@ const dates = [
     id: '410522b2-4001-4271-9855-fec4b6a6442b',
     name: 'Odaiba',
     description: 'Walk on the Ocean-side, shopping, restaurant.',
-    image: '/dates/default.jpg',
+    image_url: '/dates/default.jpg',
     status: 'checked'
   }
 ];

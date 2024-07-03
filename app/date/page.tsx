@@ -1,4 +1,5 @@
 import { PencilSquareIcon } from '@heroicons/react/24/solid';
+import Table from '@/app/ui/date/table';
 
 export default function Page() {
 
@@ -17,6 +18,7 @@ export default function Page() {
               <li></li>
             </ul>
           </div>
+          <Table />
         </div>
     </main>
   )

@@ -1,4 +1,4 @@
-import SideMenu from "../ui/calendar/sidemenu";
+import SideMenu from "../ui/date/sidemenu";
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
